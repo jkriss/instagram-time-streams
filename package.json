@@ -1,0 +1,11 @@
+{
+  "name": "instagram-time-streams",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Jesse Kriss <jesse@jklabs.net>",
+  "license": "MIT",
+  "dependencies": {
+    "mime": "^2.4.6",
+    "time-streams": "^0.0.7"
+  }
+}
